@@ -1,9 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Clone da pagina inicial do Instagram 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Atividade do curso de Flexbox da Dio! 
 
-### Os requisitos são:
+falta futuramente fazer com que o smartphone da tela inicial fique mudando as imagens assim como na página real
 
+
+## Links úteis
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 

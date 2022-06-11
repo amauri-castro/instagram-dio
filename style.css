@@ -20,20 +20,21 @@ body {
 .instagram-wrapper {
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: space-between;
     width: 60%;
     height: 100vh;
+    
 }
 
 .instagram-phone {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 40%;
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 40rem;
 }
 
 .instagram-continue {
@@ -120,7 +121,7 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/apple-button.png');
+    background-image: url('./img/appstore-button.png');
 }
 
 .app-download:nth-child(2) {
